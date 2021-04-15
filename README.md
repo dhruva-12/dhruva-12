@@ -1,7 +1,7 @@
 ### Hi there, I'm Dhruva Shah  👋
 
 ## I'm a Full Stack Developer !
-- 🔭 I’m currently working on a MERN/MEAN Stack.
+- 🔭 I’m currently working on a MERN Stack.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn new things every single day
 - ⚡ Fun fact: I love travelling worldwide exploring new things
