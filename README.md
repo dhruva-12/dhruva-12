@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer !
 - 🔭 I’m currently working on a MERN Stack.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn new things every single day
+- 🥅 2022 Goals: Learn new things every single day
 - ⚡ Fun fact: I love travelling worldwide exploring new things
 
 
